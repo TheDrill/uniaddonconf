@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="D_BWA_to_UAC">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_cse_to_uac__MenuKeys_Section">
+		<Original>CSE menu keys</Original>
+		<Russian>CSE кнопки меню</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_cse_to_uac__ActionKeys_Section">
+		<Original>CSE action keys</Original>
+		<Russian>CSE кнопки действий</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_cse_to_uac__Options_Section">
+		<Original>CSE options</Original>
+		<Russian>CSE опции</Russian>
+	</Key> 
+
+
+
+  </Package>
+</Project>

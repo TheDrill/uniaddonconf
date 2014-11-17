@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_bwa_to_uac">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_bwa_to_uac__BWA_Keys_Category">
+		<Original>Keys (BWA)</Original>
+		<Russian>Кнопки (BWA)</Russian>
+	</Key> 
+
+
+
+    <Key ID="STR_Addons__d_bwa_to_uac__vectorAzimuth">
+      <English>Vector: Azimuth Key</English>
+      <German>Vector: Azimut-Taste</German>
+    </Key>
+    <Key ID="STR_Addons__d_bwa_to_uac__vectorDistance">
+      <English>Vector: Distance Key</English>
+      <German>Vector: Distanz-Taste</German>
+    </Key>
+    
+    <Key ID="STR_Addons__d_bwa_to_uac__openNaviPad">
+      <English>Show NaviPad</English>
+      <German>NaviPad anzeigen</German>
+    </Key>
+    <Key ID="STR_Addons__d_bwa_to_uac__openNaviPadDetail">
+      <English>Show NaviPad (Detail)</English>
+      <German>NaviPad anzeigen (Detail)</German>
+    </Key>
+    <Key ID="STR_Addons__d_bwa_to_uac__openKestrel">
+      <English>Show Kestrel</English>
+      <German>Kestrel anzeigen</German>
+    </Key>    
+
+
+  </Package>
+</Project>

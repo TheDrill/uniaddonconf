@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_tua3ts3_to_uac">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_tua3ts3_to_uac__KeysSection">
+		<Original>TuRadio (keys)</Original>
+		<Russian>TуРадио (кнопки)</Russian>
+	</Key> 
+
+
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_tanget_short">
+		<English>Talk to SW radio</English>
+		<Russian>Говорить в КВ рацию</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_tanget_long">
+		<English>Talk to LW radio</English>
+		<Russian>Говорить в ДВ рацию</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_volume">
+		<English>Change volume of voice</English>
+		<Russian>Изменить громкость голоса</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_short">
+		<English>Switch SW radio channel</English>
+		<Russian>Поменять КВ канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_short_1">
+		<English>Switch SW radio to 1st channel</English>
+		<Russian>Переключить КВ рацию на 1ый канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_short_2">
+		<English>Switch SW radio to 2nd channel</English>
+		<Russian>Переключить КВ рацию на 2ой канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_short_3">
+		<English>Switch SW radio to 3rd channel</English>
+		<Russian>Переключить КВ рацию на 3ий канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_short_4">
+		<English>Switch SW radio to 4th channel</English>
+		<Russian>Переключить КВ рацию на 4ый канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_short_5">
+		<English>Switch SW radio to 5th channel</English>
+		<Russian>Переключить КВ рацию на 5ый канал</Russian>
+	</Key>
+
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_long">
+		<English>Switch LW radio channel</English>
+		<Russian>Поменять ДВ канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_long_1">
+		<English>Switch LW radio to 1st channel</English>
+		<Russian>Переключить ДВ рацию на 1ый канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_long_2">
+		<English>Switch LW radio to 2nd channel</English>
+		<Russian>Переключить ДВ рацию на 2ой канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_long_3">
+		<English>Switch LW radio to 3rd channel</English>
+		<Russian>Переключить ДВ рацию на 3ий канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_long_4">
+		<English>Switch LW radio to 4th channel</English>
+		<Russian>Переключить ДВ рацию на 4ый канал</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_chanel_long_5">
+		<English>Switch LW radio to 5th channel</English>
+		<Russian>Переключить ДВ рацию на 5ый канал</Russian>
+	</Key>
+
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_int_short">
+		<English>Show SW radio interface</English>
+		<Russian>Показать интерфейс КВ рации</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_int_long">
+		<English>Show LW radio interface</English>
+		<Russian>Показать интерфейс ДВ рации</Russian>
+	</Key>
+
+	<Key ID="STR_Addons__d_tua3ts3_to_uac__tush_radio_short_change">
+		<English>Switch LW radio</English>
+		<Russian>Поменять КВ рацию</Russian>
+	</Key>
+
+
+
+
+  </Package>
+</Project>

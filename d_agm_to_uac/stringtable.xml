@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_agm_to_uac">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_agm_to_uac__AGM_Keys_Category">
+		<Original>Keys (AGM)</Original>
+		<Russian>Кнопки (AGM)</Russian>
+	</Key> 
+	
+ 	<Key ID="STR_Addons__d_agm_to_uac__AGM_Options_Category">
+		<Original>Other options (AGM)</Original>
+		<Russian>Прочие настройки (AGM)</Russian>
+	</Key> 	
+
+
+
+  </Package>
+</Project>

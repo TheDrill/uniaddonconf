@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_uac">
+  <Package name="UniAddonConf">
+
+
+
+<Container ID="Addons__d_uac">
+
+
+ 	<Key ID="STR_Addons__d_uac__MainDialogButton">
+		<Original>Configure addons</Original>
+		<Russian>Настройка аддонов</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__MainDialogButtonTooltip">
+		<Original>View or change addons' controls and parameters.</Original>
+		<Russian>Изменить настройки аддонов</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__DefaultsButton">
+		<Original>Defaults</Original>
+		<Russian>По-умолчанию</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__DefaultsSectionButton">
+		<Original>Section defaults</Original>
+		<Russian>Раздел по-умолчанию</Russian>
+	</Key> 
+	
+ 	<Key ID="STR_Addons__d_uac__KET_NoneButton">
+		<Original>No binding</Original>
+		<Russian>Отключить</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__KET_DefaultButton">
+		<Original>Default</Original>
+		<Russian>По-умолчанию</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__KET_None">
+		<Original>No binding</Original>
+		<Russian>Комбинация клавиш не назначена</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__KET_DialogText">
+		<Original>&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;t align="center"&gt;Press key combination to assign it to the action&lt;/t&gt;</Original>
+		<Russian>&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;t align="center"&gt;Нажмите комбинацию клавиш для действия&lt;/t&gt;</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__MainDialogTitle">
+		<Original>Configure addons</Original>
+		<Russian>Настройка аддонов</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__BT_True">
+		<Original>On</Original>
+		<Russian>Включено</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__BT_False">
+		<Original>Off</Original>
+		<Russian>Отключено</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__SectionsListBoxTitle">
+		<Original>Section</Original>
+		<Russian>Раздел</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__ParametersListBoxTitle">
+		<Original>Parameter</Original>
+		<Russian>Параметр</Russian>
+	</Key> 
+	
+	<Key ID="STR_Addons__d_uac__ValuesListBoxTitle">
+		<Original>Value</Original>
+		<Russian>Значение</Russian>
+	</Key> 
+
+
+
+
+ 	<Key ID="STR_Addons__d_uac__ED_CurrentValue">
+		<Original>Current value: %1</Original>
+		<Russian>Текущее значение: %1</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__ED_DefaultValue">
+		<Original>Default value: %1</Original>
+		<Russian>Значение по-умолчанию: %1</Russian>
+	</Key> 
+
+ 	<Key ID="STR_Addons__d_uac__ED_DefaultButton">
+		<Original>Default</Original>
+		<Russian>По-умолчанию</Russian>
+	</Key> 
+
+
+
+
+ 	<Key ID="STR_Addons__d_uac__ProcType_Value">
+		<Original>(click to activate the command)</Original>
+		<Russian>(нажмите, чтобы активировать команду)</Russian>
+	</Key> 
+
+
+
+	<Key ID="STR_Addons__d_uac_Section_Keys">
+		<Original>Keys</Original>
+		<Russian>Кнопки</Russian>
+	</Key> 
+
+	<Key ID="STR_Addons__d_uac_Section_General">
+		<Original>General</Original>
+		<Russian>Общие</Russian>
+	</Key> 
+
+	<Key ID="STR_Addons__d_uac_Section_MissionSpecific">
+		<Original>Mission options</Original>
+		<Russian>Настройки миссии</Russian>
+	</Key> 
+
+	<Key ID="STR_Addons__d_uac_Section_Procedures">
+		<Original>Activate commands</Original>
+		<Russian>Активация команд</Russian>
+	</Key> 
+
+
+</Container>
+
+
+  </Package>
+</Project>

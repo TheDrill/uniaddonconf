@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="d_tfar_to_uac">
+  <Package name="strings">
+
+
+
+
+
+
+ 	<Key ID="STR_Addons__d_tfar_to_uac__KeysSection">
+		<Original>TF radio (keys)</Original>
+		<Russian>TF радио (кнопки)</Russian>
+	</Key> 
+
+
+
+    <Key ID="STR_Addons__d_tfar_to_uac__tangent_sw">
+      <English>Talk to SW radio</English>
+      <Russian>Разговор по КВ рации</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__tangent_lr">
+      <English>Talk to LW radio</English>
+      <Russian>Разговор по ДВ рации</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__tangent_dd">
+      <English>Talk to diver radio</English>
+      <Russian>Разговор по рации дайвера</Russian>
+    </Key>
+
+
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_1">
+      <English>Switch SW radio to 1st channel</English>
+      <Russian>Переключить КВ рацию на 1ый канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_2">
+      <English>Switch SW radio to 2nd channel</English>
+      <Russian>Переключить КВ рацию на 2ий канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_3">
+      <English>Switch SW radio to 3rd channel</English>
+      <Russian>Переключить КВ рацию на 3ий канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_4">
+      <English>Switch SW radio to 4th channel</English>
+      <Russian>Переключить КВ рацию на 4ый канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_5">
+      <English>Switch SW radio to 5th channel</English>
+      <Russian>Переключить КВ рацию на 5ый канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_6">
+      <English>Switch SW radio to 6th channel</English>
+      <Russian>Переключить КВ рацию на 6ой канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_7">
+      <English>Switch SW radio to 7th channel</English>
+      <Russian>Переключить КВ рацию на 7ой канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_channel_8">
+      <English>Switch SW radio to 8th channel</English>
+      <Russian>Переключить КВ рацию на 8ой канал</Russian>
+    </Key>
+
+
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_1">
+      <English>Switch LW radio to 1st channel</English>
+      <Russian>Переключить ДВ рацию на 1ый канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_2">
+      <English>Switch LW radio to 2nd channel</English>
+      <Russian>Переключить ДВ рацию на 2ий канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_3">
+      <English>Switch LW radio to 3rd channel</English>
+      <Russian>Переключить ДВ рацию на 3ий канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_4">
+      <English>Switch LW radio to 4th channel</English>
+      <Russian>Переключить ДВ рацию на 4ый канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_5">
+      <English>Switch LW radio to 5th channel</English>
+      <Russian>Переключить ДВ рацию на 5ый канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_6">
+      <English>Switch LW radio to 6th channel</English>
+      <Russian>Переключить ДВ рацию на 6ой канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_7">
+      <English>Switch LW radio to 7th channel</English>
+      <Russian>Переключить ДВ рацию на 7ой канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_8">
+      <English>Switch LW radio to 8th channel</English>
+      <Russian>Переключить ДВ рацию на 8ой канал</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_channel_9">
+      <English>Switch LW radio to 9th channel</English>
+      <Russian>Переключить ДВ рацию на 9ый канал</Russian>
+    </Key>
+
+
+    <Key ID="STR_Addons__d_tfar_to_uac__dialog_sw">
+      <English>Show SW radio interface</English>
+      <Russian>Открыть интерфейс КВ рации</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__dialog_lr">
+      <English>Show LW radio interface</English>
+      <Russian>Открыть интерфейс ДВ рации</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__dialog_dd">
+      <English>Show diver radio interface</English>
+      <Russian>Открыть интерфейс рации дайвера</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__speak_volume">
+      <English>Switch direct talk volume</English>
+      <Russian>Изменить громкость прямой речи</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_stereo_both">
+      <English>SW radio stereo mode to both</English>
+      <Russian>Изменить стерео режим КВ рации на оба уха</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_stereo_left">
+      <English>SW radio stereo mode to left</English>
+      <Russian>Изменить стерео режим КВ рации на левое уха</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_stereo_right">
+      <English>SW radio stereo mode to right</English>
+      <Russian>Изменить стерео режим КВ рации на правое уха</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_stereo_both">
+      <English>LW radio stereo mode to both</English>
+      <Russian>Изменить стерео режим ДВ рации на оба уха</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_stereo_left">
+      <English>LW radio stereo mode to left</English>
+      <Russian>Изменить стерео режим ДВ рации на левое уха</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_stereo_right">
+      <English>LW radio stereo mode to right</English>
+      <Russian>Изменить стерео режим ДВ рации на правое уха</Russian>
+    </Key>
+
+
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_cycle_next">
+      <English>Next SW radio</English>
+      <Russian>Следующая КВ рация</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__sw_cycle_prev">
+      <English>Previous SW radio</English>
+      <Russian>Предыдущая КВ рация</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_cycle_next">
+      <English>Next LW radio</English>
+      <Russian>Следующая ДВ рация</Russian>
+    </Key>
+    <Key ID="STR_Addons__d_tfar_to_uac__lr_cycle_prev">
+      <English>Previous LW radio</English>
+      <Russian>Предыдущая ДВ рация</Russian>
+    </Key>
+    
+    <Key ID="STR_Addons__d_tfar_to_uac__tangent_additional_sw">
+      <English>Talk to SW radio additional channel</English>
+      <Russian>Говорить в дополнительный канал КВ рации</Russian>
+    </Key>
+
+    <Key ID="STR_Addons__d_tfar_to_uac__tangent_additional_lr">
+      <English>Talk to LW radio additional channel</English>
+      <Russian>Говорить в дополнительный канал ДВ рации</Russian>
+    </Key>
+
+
+
+  </Package>
+</Project>
