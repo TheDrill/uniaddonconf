@@ -27,13 +27,13 @@ For example, if you have a variable
    myKeyBindingVariable = [55, false, false, false];
 
 which contains a key combination for some action (the first one is key code, then follows shift, ctrl, alt statuses), then to register it to UAC is enough to issue the command:
-	 ["myKeyBindingVariable", "My section", "SORTINGSTRING", "Description for the parameter"] call d_uac_fnc_registerKeyBindingVariable;
+	 ["myKeyBindingVariable", "My section", "Description for the parameter", "SORTINGSTRING"] call d_uac_fnc_registerKeyBindingVariable;
 This command would create section "My section" and add there an entry "Description for the parameter", which would be binded to the value of variable myKeyBindingVariable. The "SORTINGSTRING" is used to determine the position of the parameter in the list and could be any string (or array of numbers), even "". The default value for the parameter would be then the value of the variable before registration ([55, false, false, false]). The new values for the parameter (or the ones from user profile) would automatically assigned to the variable by UAC.
 
 In a similar manner, to register boolean variable
    myBooleanVariable = false;
 is enough to issue the command:
-	 ["myBooleanVariable", "My section", "SORTINGSTRING", "Description for the parameter"] call d_uac_fnc_registerBooleanVariable;
+	 ["myBooleanVariable", "My section", "Description for the parameter", "SORTINGSTRING"] call d_uac_fnc_registerBooleanVariable;
 The more general ways for registering parameters are functions:
    d_uac_fnc_registerVariable
    d_uac_fnc_registerParameter
