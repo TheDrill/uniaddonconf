@@ -28,7 +28,8 @@ convenient GUI for editing them by player.
     future.
     
   * "pbo" contains compiled and signed addon .pbos.
-        
-  All addons are configured to be packed with cpbo.exe utility, though any other
+
+ 
+ All addons are configured to be packed with cpbo.exe utility, though any other
 tool could easly be used.
   
