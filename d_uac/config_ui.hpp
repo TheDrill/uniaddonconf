@@ -28,7 +28,7 @@ class Addons__d_uac_InterruptMenuButton: RscButtonMenu
 	text = "$STR_Addons__d_uac__MainDialogButton";
 	tooltip = "$STR_Addons__d_uac__MainDialogButtonTooltip";
 	
-	action = "[] call d_uac_fnc_ShowConfigDialog;";
+	action = "(findDisplay 49) closeDisplay 0; [] call d_uac_fnc_ShowConfigDialog;";
 
 	
 	x = 1 * WIDTH_BASE_SIZE + safezoneX;

@@ -9,7 +9,7 @@ class CfgPatches
 		{
 			"Drill"
 		};
-		addon_version=6.8;
+		addon_version=6.9;
 	};
 };
 
