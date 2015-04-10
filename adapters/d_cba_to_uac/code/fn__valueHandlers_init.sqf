@@ -9,16 +9,14 @@ GVAR(valueHandlers) = [
 		
 		PV(_addon) = _pinfo select 0;
 		PV(_actname) = _pinfo select 1;
-		PV(_khtype) = _pinfo select 2;
 					
-		PV(_hi) = [_addon, _actname, _khtype] call CBAFUNC(getKeybind);
+		PV(_hnd) = [_addon, _actname] call CBAFUNC(getKeybind);
 		
-		if (_hi < 0) exitWith {[0, false, false, false];};
+		if (isNil {_hnd}) exitWith {[0, false, false, false];};
 		
-		PV(_hnd) = CKB(handlers) select _hi;
-		
-		PV(_val) = _hnd select 2;
-		
+		PV(_val) = _hnd select 5;
+		if (count _val == 2) then {_val = [_val select 0] + (_val select 1);};
+				
 		_val;
 	}
 	,
@@ -28,17 +26,14 @@ GVAR(valueHandlers) = [
 		
 		PV(_addon) = _pinfo select 0;
 		PV(_actname) = _pinfo select 1;
-		PV(_khtype) = _pinfo select 2;
 					
-		PV(_hi) = [_addon, _actname, _khtype] call CBAFUNC(getKeybind);
+		PV(_hnd) = [_addon, _actname] call CBAFUNC(getKeybind);
 		
-		if (_hi < 0) exitWith {;};
+		if (isNil {_hnd}) exitWith {;};
 		
-		PV(_hnd) = CKB(handlers) select _hi;
-		_hnd set [2, _newval];
+		_hnd set [ 5, [_newval select 0, 
+			[_newval select 1, _newval select 2, _newval select 3]] ];
 		
-		
-		[_addon, _actname, _hnd select 3, _newval, true, _hnd select 5]
-			call CFUNC(_cba_registerKeybind_real);
+		(_hnd + [true]) call CFUNC(_cba_addKeybind_real);
 	}
 ];
