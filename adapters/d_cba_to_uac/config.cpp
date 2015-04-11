@@ -11,7 +11,7 @@ class CfgPatches
 		{
 			"Drill"
 		};
-		addon_version=6.2;
+		addon_version=6.3;
 	};
 };
 
@@ -23,12 +23,6 @@ class CfgFunctions
 	{
 		class Keybinding
 		{
-			class registerKeybind
-			{
-				file = "\xx\addons\d_cba_to_uac\code\fnc__cba_registerKeybind_wrapper.sqf";
-				recompile = RECOMPILE;
-			};
-
 			class addKeybind
 			{
 				file = "\xx\addons\d_cba_to_uac\code\fnc__cba_addKeybind_wrapper.sqf";
@@ -45,8 +39,6 @@ class CfgFunctions
 			
 			class _valueHandlers_init {recompile = RECOMPILE;};
 				
-			class _cba_registerKeybind_real 
-				{file = "\x\cba\addons\keybinding\fnc_registerKeybind.sqf";};
 			class _cba_addKeybind_real 
 				{file = "\x\cba\addons\keybinding\fnc_addKeybind.sqf";};
 		};
